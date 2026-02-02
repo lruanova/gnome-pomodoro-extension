@@ -8,6 +8,7 @@ A simple Pomodoro timer extension for GNOME Shell.
 - 15-minute long breaks (every 4 pomodoros)
 - Desktop notifications
 - Pomodoro counter
+- Configuration of this defaults via **GSettings**
 
 ## Installation
 Download from [GNOME Extensions](https://extensions.gnome.org/)

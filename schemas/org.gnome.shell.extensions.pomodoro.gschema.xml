@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.pomodoro" path="/org/gnome/shell/extensions/pomodoro/">
+    <key name="work-minutes" type="i">
+      <default>25</default>
+      <range min="1" max="180"/>
+    </key>
+    <key name="short-break-minutes" type="i">
+      <default>5</default>
+      <range min="1" max="60"/>
+    </key>
+    <key name="long-break-minutes" type="i">
+      <default>15</default>
+      <range min="1" max="120"/>
+    </key>
+    <key name="long-break-interval" type="i">
+      <default>4</default>
+      <range min="2" max="50"/>
+    </key>
+
+  </schema>
+</schemalist>

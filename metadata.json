@@ -9,6 +9,7 @@
     "48",
     "49"
   ],
-  "version": 1,
-  "url": "https://github.com/youcefzaid/gnome-pomodoro-extension"
+  "version": 2,
+  "url": "https://github.com/youcefzaid/gnome-pomodoro-extension",
+  "settings-schema": "org.gnome.shell.extensions.pomodoro"
 }
